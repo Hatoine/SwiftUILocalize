@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  Multilangue
+
+  Created by matthieu passerel on 24/07/2020.
+  
+*/
+
+"Welcome" = "Bienvenue sur notre app";
+"Love" = "J'aime SwiftUI";
+"Subtitle" = "SwiftUI est le meilleur moyen pour créer des applications pour iOS, iPadOS and macOS";
